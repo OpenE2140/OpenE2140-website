@@ -47,6 +47,7 @@ In the list below, you can find links to relevant GitHub issues for more informa
 
 ## Known issues
 
+- Banthas can get stuck, if Mine and Refinery are placed close to each other
 - A very rare out-of-sync bug in multiplayer related to Miners can instantly end the match.
 - On Windows systems with high-DPI displays (more than 100% scaling), the game may be partially rendered outside the screen bounds. Try one of the following workarounds, then increase UI scaling in OpenE2140's settings:
     - Disable scaling in the compatibility options for the OpenE2140 executable.
@@ -83,4 +84,4 @@ In the list below, you can find links to relevant GitHub issues for more informa
     - i.e., the transporters don't rotate and transported units don't enter or leave from specific directions
 - Shelter does not have an opening/closing animation
 - The rectangle shown when ordering an attack (attack flash animation) has an incorrect color ([#237](https://github.com/OpenE2140/OpenE2140/issues/237))
-- Selection boxes have a different shape and color compared to those in the original game
+- Selection boxes have a different shape and color compared to those in the original game ([#674](https://github.com/OpenE2140/OpenE2140/issues/674))
