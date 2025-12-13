@@ -24,4 +24,5 @@ OpenE2140 uses OpenRA's versioning scheme:
 
 ## Multiplayer alpha
 
+- [release-20251216]({% link releases/release-20251216.md %})
 - [release-20251116]({% link releases/release-20251116.md %})
