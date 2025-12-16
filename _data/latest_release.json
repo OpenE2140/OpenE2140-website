@@ -27,8 +27,8 @@
             "size": 22003225,
             "size_mb": 21,
             "size_h": "21.0 MB",
-            "filename": "release-20251216.zip",
-            "download_url": "https://github.com/OpenE2140/OpenE2140/archive/refs/tags/OpenE2140-release-20251216.zip"
+            "filename": "OpenE2140-release-20251216.zip",
+            "download_url": "https://github.com/OpenE2140/OpenE2140/archive/refs/tags/release-20251216.zip"
         }
     }
 }
