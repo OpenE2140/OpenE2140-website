@@ -28,7 +28,7 @@ We've also added a few smaller features:
 - Upgraded Power Plant with two additional modules (temporary solution until building upgrades are implemented)
 - UCS mechs and T 100 light tank now leave tracks in sand
 
-For a more detailed list of changes, see the [changelog on GitHub](https://github.com/OpenE2140/OpenE2140/releases/release-20251216).
+For a more detailed list of changes, see the [changelog on GitHub](https://github.com/OpenE2140/OpenE2140/releases/tag/release-20251216).
 
 ### Next up: basic AI
 
