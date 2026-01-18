@@ -57,21 +57,21 @@ In the list below, you can find links to relevant GitHub issues for more informa
 
 ## Completely missing stuff
 - AI
-- single-player campaign
-- offensive/defensive AI generals (which make a group of units autonomously defend or attack)
+- Single-player campaign
+- Offensive/defensive AI generals (which make a group of units autonomously defend or attack)
 
 
 ## Not implemented stuff
 - SDI Defense building cannot destroy incoming nuclear missiles ([#642](https://github.com/OpenE2140/OpenE2140/issues/642))
 - Miners cannot disarm mines ([#318](https://github.com/OpenE2140/OpenE2140/issues/318))
-- explosions and flammable grenades don't cause actual fire that spreads and damages everything it touches ([#154](https://github.com/OpenE2140/OpenE2140/issues/154))
+- Explosions and flammable grenades don't cause actual fire that spreads and damages everything it touches ([#154](https://github.com/OpenE2140/OpenE2140/issues/154))
     - i.e., the fire is currently just a visual effect
 - ED's nuclear missile does not have a thruster trail ([#438](https://github.com/OpenE2140/OpenE2140/issues/438))
-- vehicles/mechs cannot enter Shelter ([#389](https://github.com/OpenE2140/OpenE2140/issues/389))
+- Vehicles/mechs cannot enter Shelter ([#389](https://github.com/OpenE2140/OpenE2140/issues/389))
 
 
 ## Incorrectly working features
-- vehicles transported in WTP 100 and WTRN are not visible and cannot attack ([#652](https://github.com/OpenE2140/OpenE2140/pull/652))
+- Vehicles transported in WTP 100 and WTRN are not visible and cannot attack ([#652](https://github.com/OpenE2140/OpenE2140/pull/652))
 - HCU-M captures of disabled vehicles instantly ([#274](https://github.com/OpenE2140/OpenE2140/issues/274))
 - Mech walking sounds and Heavy Lifter moving sounds play even when the game is paused ([#574](https://github.com/OpenE2140/OpenE2140/issues/574))
 - HT 30 LR rocket launchers don't work independently of lasers ([#184](https://github.com/OpenE2140/OpenE2140/issues/184))
@@ -85,3 +85,4 @@ In the list below, you can find links to relevant GitHub issues for more informa
 - Shelter does not have an opening/closing animation
 - The rectangle shown when ordering an attack (attack flash animation) has an incorrect color ([#237](https://github.com/OpenE2140/OpenE2140/issues/237))
 - Selection boxes have a different shape and color compared to those in the original game ([#674](https://github.com/OpenE2140/OpenE2140/issues/674))
+- Torpedoes, used by RUSS 3 and Shark, always explode at target location (instead of moving until they hit something) ([#552](https://github.com/OpenE2140/OpenE2140/issues/552))
