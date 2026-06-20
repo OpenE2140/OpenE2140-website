@@ -8,12 +8,12 @@ permalink: /roadmap/
 
 This is a community-driven fan project with no deadlines. The roadmap shows milestones, not dates — items may be revisited or worked on concurrently based on development needs and community input.
 
-Last update: 2025-11-16
+Last update: 2026-08-30
 
 
 ## High-level overview
 
-We’re prioritizing a first playable AI for Skirmish matches while continuing smaller work in parallel.
+We're in process of adding incremental improvements for Skirmish AI while continuing smaller work in parallel.
 
 Planned milestones:
 
@@ -36,10 +36,9 @@ Planned milestones:
 </div>
 
 
-## [Basic AI](https://github.com/OpenE2140/OpenE2140/milestone/8)
+## ~~[Basic AI](https://github.com/OpenE2140/OpenE2140/milestone/8)~~
 
-We’ll reuse OpenRA’s modular bot framework where possible, but due to the fact that OpenRA's AI is tailored to C&C games, several modules must be reimplemented for Earth 2140’s mechanics. Initial AI work will focus on core behaviors: base building, ore mining and technology research.
-
+Basic Skirmish AI has been implemented and is available in current release of OpenE2140. There are a few small things we want to implement/fix before moving on to other areas of development.
 
 ## [Gameplay mechanics](https://github.com/OpenE2140/OpenE2140/milestone/7)
 
