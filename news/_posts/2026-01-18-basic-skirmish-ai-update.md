@@ -82,7 +82,7 @@ In general, it will take a lot of time to teach the AI to utilize all features a
 </div>
 
 
-The basic Skirmish AI is coming soon, so stay tuned and follow us on [this website]({% link index.html %}), [Mod DB](https://www.moddb.com/mods/opene2140) or [GitHub](https://github.com/OpenE2140/OpenE2140).
+The basic Skirmish AI is coming soon, so stay tuned and follow us on [this website]({% link index.html %}), [Mod DB](https://www.moddb.com/mods/opene2140) or [GitHub](https://github.com/OpenE2140/OpenE2140).
 
 If you haven't tried OpenE2140 yet, visit [the download page]({% link download.html %}), where you can find links to download the game and information on how to get it running.
 
