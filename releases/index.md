@@ -22,6 +22,10 @@ OpenE2140 uses OpenRA's versioning scheme:
 
 **release-yyyyMMdd**, where yyyyMMdd is the release date in the format year, month, day.
 
+## Skirmish Alpha
+
+- [release-20260830]({% link releases/release-20260830.md %})
+
 ## Multiplayer alpha
 
 - [release-20251216]({% link releases/release-20251216.md %})

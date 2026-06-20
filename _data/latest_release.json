@@ -1,34 +1,34 @@
 {
-    "name": "release-20251216",
-    "published_at": "2025-12-16T21:45:53Z",
+    "name": "release-20260830",
+    "published_at": "2026-08-30T21:45:53Z",
     "assets": {
         "windows": {
-            "size": 54869450,
-            "size_mb": 52.3,
-            "size_h": "52.3 MB",
-            "filename": "OpenE2140-release-20251216-x64.exe",
-            "download_url": "https://github.com/OpenE2140/OpenE2140/releases/download/release-20251216/OpenE2140-release-20251216-x64.exe"
+            "size": 60522846,
+            "size_mb": 57.7,
+            "size_h": "57.7 MB",
+            "filename": "OpenE2140-release-20260830-x64.exe",
+            "download_url": "https://github.com/OpenE2140/OpenE2140/releases/download/release-20260830/OpenE2140-release-20260830-x64.exe"
         },
         "linux": {
-            "size": 63388152,
-            "size_mb": 60.5,
-            "size_h": "60.5 MB",
-            "filename": "OpenE2140-release-20251216-x86_64.AppImage",
-            "download_url": "https://github.com/OpenE2140/OpenE2140/releases/download/release-20251216/OpenE2140-release-20251216-x86_64.AppImage"
+            "size": 70855160,
+            "size_mb": 67.6,
+            "size_h": "67.6 MB",
+            "filename": "OpenE2140-release-20260830-x86_64.AppImage",
+            "download_url": "https://github.com/OpenE2140/OpenE2140/releases/download/release-20260830/OpenE2140-release-20260830-x86_64.AppImage"
         },
         "macos": {
-            "size": 102665256,
-            "size_mb": 97.9,
-            "size_h": "97.9 MB",
-            "filename": "OpenE2140-release-20251216.dmg",
-            "download_url": "https://github.com/OpenE2140/OpenE2140/releases/download/release-20251216/OpenE2140-release-20251216.dmg"
+            "size": 112692048,
+            "size_mb": 107,
+            "size_h": "107 MB",
+            "filename": "OpenE2140-release-20260830.dmg",
+            "download_url": "https://github.com/OpenE2140/OpenE2140/releases/download/release-20260830/OpenE2140-release-20260830.dmg"
         },
         "source": {
-            "size": 22003225,
-            "size_mb": 21,
-            "size_h": "21.0 MB",
-            "filename": "OpenE2140-release-20251216.zip",
-            "download_url": "https://github.com/OpenE2140/OpenE2140/archive/refs/tags/release-20251216.zip"
+            "size": 25905274,
+            "size_mb": 24.7,
+            "size_h": "24.7 MB",
+            "filename": "OpenE2140-release-20260830.zip",
+            "download_url": "https://github.com/OpenE2140/OpenE2140/archive/refs/tags/release-20260830.zip"
         }
     }
 }
