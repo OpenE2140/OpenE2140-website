@@ -11,7 +11,7 @@ published: true
 Today, almost three years after we started working on OpenE2140, we're proud to announce that the first public version of OpenE2140 is out.
 
 <div class="mb-4 is-flex is-justify-items-center is-justify-content-center">
-    <iframe title="OpenE2140: Launch Trailer (Multiplayer Beta)" width="560" height="315"
+    <iframe title="OpenE2140 - Multiplayer Alpha Trailer" width="560" height="315"
             src="https://dalek.zone/videos/embed/6be794d3-d9ca-48aa-87bd-fc20981a825e" frameborder="0" allowfullscreen=""
             sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe>
 </div>
