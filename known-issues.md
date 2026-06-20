@@ -47,16 +47,26 @@ In the list below, you can find links to relevant GitHub issues for more informa
 
 ## Known issues
 
-- Banthas can get stuck, if Mine and Refinery are placed close to each other
 - A very rare out-of-sync bug in multiplayer related to Miners can instantly end the match.
 - On Windows systems with high-DPI displays (more than 100% scaling), the game may be partially rendered outside the screen bounds. Try one of the following workarounds, then increase UI scaling in OpenE2140's settings:
     - Disable scaling in the compatibility options for the OpenE2140 executable.
     - Disable scaling in Windows display settings (i.e., set to 100%).
 - Original installation CDs as a source for game assets are not supported (see [How To Install page]({% link install.md %}) for instructions on installing OpenE2140).
+- Observer UI
+
+### Skirmish AI
+
+AI bots:
+- Place buildings inefficiently (including defenses)
+- Don't staff buildings with crew
+- Don't capture enemy buildings
+- Don't construct walls
+- Don't properly utilize support units such as Shadows, Screamers or HCU-Ms
+- Keep building weaker units, even if they can already build stronger ones
+- Manage units somewhat inefficiently, erratically and sometimes even illogically (either while attacking or defending)
 
 
 ## Completely missing stuff
-- AI
 - Single-player campaign
 - Offensive/defensive AI generals (which make a group of units autonomously defend or attack)
 
@@ -86,3 +96,6 @@ In the list below, you can find links to relevant GitHub issues for more informa
 - The rectangle shown when ordering an attack (attack flash animation) has an incorrect color ([#237](https://github.com/OpenE2140/OpenE2140/issues/237))
 - Selection boxes have a different shape and color compared to those in the original game ([#674](https://github.com/OpenE2140/OpenE2140/issues/674))
 - Torpedoes, used by RUSS 3 and Shark, always explode at target location (instead of moving until they hit something) ([#552](https://github.com/OpenE2140/OpenE2140/issues/552))
+- Some statistics in observer/replay view are incorrect or missing ([#696](https://github.com/OpenE2140/OpenE2140/issues/696))
+
+For more complete and detailed list, see [list of issues on GitHub](https://github.com/OpenE2140/OpenE2140/issues).
