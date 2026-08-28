@@ -86,6 +86,8 @@ Full credits are listed below.
     - custom rally point artwork
 - michal-mad
     - additional programming
+- Narcoleptic
+    - artwork for new units
 - Chrobak
     - video editor
 
