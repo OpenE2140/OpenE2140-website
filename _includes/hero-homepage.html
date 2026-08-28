@@ -1,0 +1,43 @@
+<section
+    class="hero {% if page.hero_height %} {{ page.hero_height }} {% else %} is-medium {% endif %} is-bold"
+    {% if page.hero_image %}
+        style="background: url('{{ page.hero_image | relative_url }}') no-repeat center center; background-size: cover;"
+    {% endif %}
+>
+    <div class="hero-body {% if page.hero_darken %} hero-darken {% endif %}">
+        <div class="container">
+
+            {% if page.hero_title_image %}
+                <div class="hero-top">
+                    <div class="hero-title-image">
+                        <img src="{{ page.hero_title_image | relative_url }}" class="hero-title-img" />
+                    </div>
+
+                    {% if page.feature_label %}
+                        <span class="tag is-warning feature-label feature-label-desktop is-size-4">
+                            {{ page.feature_label }}
+                        </span>
+                    {% endif %}
+                </div>
+            {% else %}
+                <h1 class="title is-2">{{ page.title }}</h1>
+            {% endif %}
+
+            <p class="subtitle is-3">{{ page.subtitle }}</p>
+
+            {% if page.hero_link %}
+                <div class="my-4">
+                    <a href="{{ page.hero_link | relative_url }}" class="button is-info is-large">
+                        {{- page.hero_link_text -}}
+                    </a>
+                </div>
+            {% endif %}
+
+            {% if page.feature_label %}
+                <div class="feature-label-mobile">
+                    <span class="tag is-warning is-size-5">{{ page.feature_label }}</span>
+                </div>
+            {% endif %}
+        </div>
+    </div>
+</section>

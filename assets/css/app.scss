@@ -40,3 +40,53 @@ pre.highlight {
     position: fixed;
     background-color: var(--bulma-scheme-main-bis);
 }
+
+
+.hero-top {
+    display: block;
+}
+
+.hero-title-image {
+    position: relative;
+    display: inline-block;
+}
+
+.hero-title-img {
+    width: 30em !important;
+}
+
+.feature-label-mobile {
+    margin-top: 0.75rem;
+}
+
+.feature-label-desktop {
+    display: none;
+}
+
+@media screen and (min-width: 800px) {
+    .feature-label-mobile {
+        display: none;
+    }
+
+    .hero-title-image {
+        position: relative;
+        display: inline-block;
+        overflow: visible;
+    }
+
+    .feature-label-desktop {
+        display: inline-flex;
+        position: absolute;
+        top: 1rem;
+        left: 23.5rem;
+        transform: rotate(30deg);
+        transform-origin: center;
+        z-index: 5;
+        white-space: nowrap;
+
+        border-radius: 9999px;
+        padding: 0.35rem 0.85rem;
+        line-height: 1;
+        box-shadow: 0 0.35rem 0.9rem rgba(0, 0, 0, 0.18);
+    }
+}

@@ -10,7 +10,8 @@
         {% include skip-to-content.html %}
         {% include header.html %}
         {% if page.show_hero %}
-            {% include hero.html %}
+            {% assign hero_file = page.hero_layout | default: "hero.html" %}
+            {% include {{ hero_file }} %}
         {% endif %}
         {% include callouts.html %}
         <section class="section">
