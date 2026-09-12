@@ -15,7 +15,7 @@ You can find download links for the new version on the [Download page]({% link d
 ### Release with bugfixes and small new features
 
 No release is perfect, and a few issues surfaced after the initial launch. This update addresses several of those problems. Here's a quick summary:
-`
+
 - Fixed crashes and visual bugs related to the Bantha and` Heavy Lifter units
 - Debug menu is now disabled by default
 - Defense Tower now requires only a Bio-Center to build (as in E2140)
