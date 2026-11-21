@@ -24,6 +24,7 @@ OpenE2140 uses OpenRA's versioning scheme:
 
 ## Skirmish Alpha
 
+- [release-20261122]({% link releases/release-20261122.md %})
 - [release-20260920]({% link releases/release-20260920.md %})
 - [release-20260830]({% link releases/release-20260830.md %})
 
