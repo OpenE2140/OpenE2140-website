@@ -52,7 +52,7 @@ In the list below, you can find links to relevant GitHub issues for more informa
     - Disable scaling in the compatibility options for the OpenE2140 executable.
     - Disable scaling in Windows display settings (i.e., set to 100%).
 - Original installation CDs as a source for game assets are not supported (see [How To Install page]({% link install.md %}) for instructions on installing OpenE2140).
-- Observer UI
+- Pressing shift in main menu shows target lines on shell map
 
 ### Skirmish AI
 
