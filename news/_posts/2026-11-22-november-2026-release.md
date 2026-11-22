@@ -8,7 +8,7 @@ summary: "New release improves Skirmish AI and adds quality-of-life improvements
 published: true
 ---
 
-It's been some time, since we've released new version of OpenE2140. This one is a smaller one (compared to some of the previous releases). It consists mainly from Skirmish AI (and other) improvements, gameplay features and a few bug fixes. Nevertheless, it's definitely worth to check it out.
+It's been some time, since we've released new version of OpenE2140. This one is a smaller one (compared to some of the previous releases). It consists mainly from Skirmish AI (and other) improvements, gameplay features and a few bug fixes. Nevertheless, it's definitely worth checking it out.
 
 Download links for the new version can be found on the [Download page]({% link download.html %}), release notes follow.
 
