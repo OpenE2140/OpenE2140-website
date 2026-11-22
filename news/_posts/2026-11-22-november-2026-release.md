@@ -17,7 +17,7 @@ Download links for the new version can be found on the [Download page]({% link d
 AI players can finally build Water Base now and they're very capable at naval warfare:
 
 <div class="mb-4 is-flex is-justify-items-center is-justify-content-center">
-    <iframe title="OpenE2140: Launch Trailer (Skirmish Alpha)" width="560" height="315"
+    <iframe title="OpenE2140: Naval battles with AI players" width="560" height="315"
             src="https://dalek.zone/videos/embed/iuUmnpKYqEGF2t7QqQyUjx" frameborder="0" allowfullscreen=""
             sandbox="allow-same-origin allow-scripts allow-popups allow-forms"></iframe>
 </div>
