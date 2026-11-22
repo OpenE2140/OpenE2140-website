@@ -3,7 +3,7 @@ layout: post
 title: "November 2026 release"
 subtitle: "Development continues with incremental improvements"
 author: "OpenE2140 developers"
-date: 2026-11-20
+date: 2026-11-22
 summary: "New release improves Skirmish AI and adds quality-of-life improvements along with polishing and bug fixes"
 published: true
 ---
